@@ -1,0 +1,5 @@
+python-telegram-bot
+pycoingecko
+tweepy
+textblob
+vaderSentiment
